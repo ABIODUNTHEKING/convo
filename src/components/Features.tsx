@@ -32,7 +32,7 @@ function Features() {
             Community Support
           </h2>
           <p className="w:3/5 lg:w-1/3 mb-5 leading-loose">
-            Think of Conco as your project's personal assistant. Need info? Just
+            Think of Conco as your project&apos;s personal assistant. Need info? Just
             ask! From whitepaper insights to general inquiries, Convo handles it
             all with ease
           </p>
